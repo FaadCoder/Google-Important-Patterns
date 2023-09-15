@@ -24,6 +24,7 @@
 - ## Path with k stops
 
 # Bracket expansion Problems
+- ## Decode String Variants
 - ## ()()(())) recursion (search on leetcode)
 
 # Trie
